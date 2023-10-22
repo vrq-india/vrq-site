@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/vrq-site/static/css/main.96ebb817.css",
-    "main.js": "/vrq-site/static/js/main.ec118d48.js",
-    "static/js/787.0e6b3af6.chunk.js": "/vrq-site/static/js/787.0e6b3af6.chunk.js",
-    "static/media/logo.png": "/vrq-site/static/media/logo.4477c8f3cb120f66e420.png",
-    "index.html": "/vrq-site/index.html",
-    "static/media/star.svg": "/vrq-site/static/media/star.0adb9a983f92c71bcf6438bfdfc48d30.svg",
-    "main.96ebb817.css.map": "/vrq-site/static/css/main.96ebb817.css.map",
-    "main.ec118d48.js.map": "/vrq-site/static/js/main.ec118d48.js.map",
-    "787.0e6b3af6.chunk.js.map": "/vrq-site/static/js/787.0e6b3af6.chunk.js.map"
+    "main.css": "/static/css/main.96ebb817.css",
+    "main.js": "/static/js/main.cca057a2.js",
+    "static/js/787.0e6b3af6.chunk.js": "/static/js/787.0e6b3af6.chunk.js",
+    "static/media/logo.png": "/static/media/logo.4477c8f3cb120f66e420.png",
+    "index.html": "/index.html",
+    "static/media/star.svg": "/static/media/star.0adb9a983f92c71bcf6438bfdfc48d30.svg",
+    "main.96ebb817.css.map": "/static/css/main.96ebb817.css.map",
+    "main.cca057a2.js.map": "/static/js/main.cca057a2.js.map",
+    "787.0e6b3af6.chunk.js.map": "/static/js/787.0e6b3af6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96ebb817.css",
-    "static/js/main.ec118d48.js"
+    "static/js/main.cca057a2.js"
   ]
 }
